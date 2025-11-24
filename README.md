@@ -1,39 +1,24 @@
-# Siti Nur Syafiqah 👋
+# Hi there 👋
 
-**Fresh Graduate in Computer Science | Software Development | Malaysia**
-*A passionate developer ready to contribute to innovative projects*
+## About Me
 
----
+I'm Fiqa, a Frontend Developer with strong passion for building modern, responsive web applications.  
+I hold a **First-Class Bachelor's Degree in Computer Science (Software Development)**, and I'm currently expanding my experience in frontend development using the latest web technologies.
 
-## 🛠️ Tech Stack
+Here’s a little about me:
 
-### Programming Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Technologies:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ⚛️ Frontend Developer (React Ecosystem) 
+- 🧠 300+ hours of focused React learning (Todo apps, food ordering apps, reusable components)
+- 🛠️ Skilled in **React, JavaScript (ES6+), Redux Toolkit, Tailwind CSS, Vite, REST APIs, Git**
+- 📚 Strong foundation in **HTML, CSS3, JavaScript**, and **DSA**
+- ❤️ Passionate about clean code, smooth UI, and user-centric design
+- ✨ Always learning new tools & building real-world projects
 
 ---
 
-## 📌 Featured Projects
+## Reach me via 👇
 
-### MalayMate v3 📱
-**Flutter | Dart** - A mobile application for [describe what it does]
-- Feature 1: [e.g., User-friendly interface]
-- Feature 2: [e.g., Efficient data handling]
-
-### [Add Your University Project]
-**Java | MySQL** - [Brief description]
-- [Key features and technologies]
-
----
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-*Open to software development opportunities!*
+<p align="left">
+  <a href="https://www.linkedin.com/in/syafiqahnasir27"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fiqanasir7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
