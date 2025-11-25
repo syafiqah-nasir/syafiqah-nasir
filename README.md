@@ -17,13 +17,12 @@ Here’s a little about me:
 ## Reach me via 👇
 
 <p>
-  <a href="mailto:syafiqahnasir271@gmail.com">
-    <img src="https://github.com/user-attachments/assets/cb26a4db-1a26-4585-9fd1-652aebd43c19" height="50" alt="gmail logo"/>
-  </a>
-  
  <a href="https://www.linkedin.com/in/syafiqahnasir27/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/93c6fd4b-38ec-4fcf-82ff-7e06a0c9c656" height="50" alt="linkedin logo" />
+    <img src="https://github.com/user-attachments/assets/972cf60d-dee6-48df-86d1-d81fa6472a67" height="64" alt="linkedin logo" />
  </a>
-</p>
 
+  <a href="mailto:syafiqahnasir271@gmail.com">
+    <img src="https://github.com/user-attachments/assets/221c4606-c474-4251-bc58-af360c38c0bb" height="64" alt="gmail logo"/>
+  </a>
+</p>
 
