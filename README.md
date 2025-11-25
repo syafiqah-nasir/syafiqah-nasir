@@ -18,11 +18,11 @@ Here’s a little about me:
 
 <p>
   <a href="mailto:syafiqahnasir271@gmail.com">
-    <img height="50" alt="gmail" src="https://github.com/user-attachments/assets/2570ff1b-7105-440a-951c-ec51bc46898d" />
+    <img src="https://github.com/user-attachments/assets/2570ff1b-7105-440a-951c-ec51bc46898d" height="50" alt="gmail"/>
   </a>
   
  <a href="https://www.linkedin.com/in/syafiqahnasir27/" target="_blank">
-    <img height="50" alt="linkedin" src="https://github.com/user-attachments/assets/a77c5085-fe6b-424c-b190-35f59d02b616" />
+    <img src="https://github.com/user-attachments/assets/a77c5085-fe6b-424c-b190-35f59d02b616" height="50" alt="linkedin" />
  </a>
 </p>
 
